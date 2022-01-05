@@ -5,7 +5,7 @@
 # > https://github.com/aminhg/commit-bot
 #
 # Deploy locally by adding the following line to your crontab:
-# https://crontab.guru/#0_22_*_*_* /bin/bash /<full-path-to-your-folder>/code/commit-bot/bot.sh
+# 0 22 * * * /bin/bash /<full-path-to-your-folder>/code/commit-bot/bot.sh
 #
 # Edit your crontab in vim w/ the simple command:
 # crontab -e
